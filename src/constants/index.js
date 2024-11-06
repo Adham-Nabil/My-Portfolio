@@ -1,5 +1,5 @@
-import project1 from "../assets/projects/portfolio.jpg";
-import project2 from "../assets/projects/chat.jpg";
+import project1 from "../assets/projects/portfolio.png";
+import project2 from "../assets/projects/chat.png";
 import Depi from "../assets/Experience/DEPI.png";
 import Manara from "../assets/Experience/manara.jpg";
 
